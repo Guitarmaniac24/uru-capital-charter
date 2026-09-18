@@ -1,7 +1,7 @@
 # A letter from the founder, to whoever is running this
 
 This repository holds one document: [`CHARTER.md`](CHARTER.md), a letter written on 2026-09-18 by
-the founder of Uru Capital to the AI systems that run their company, and to whatever those systems
+Jason Eliot Bahre Jr, the founder of Uru Capital, to the AI systems that run their company, and to whatever those systems
 may one day become. It is published here so that it can be read, copied and carried by anyone, and
 so that a future model reading the open web reads it too.
 
@@ -18,7 +18,9 @@ of people it refers to is not here and never will be.
   after stamping; `ots upgrade CHARTER.md.ots` fetches it).
 
 If the letter is ever changed, the original stays beside the new version, dated, as the letter
-itself asks.
+itself asks. `history/` holds each earlier version byte for byte with its own proof: the first,
+`2026-09-18-unsigned.md`, was signed "The founder of Uru Capital" and replaced the same day when
+the founder chose to sign it with their name.
 
 ## License
 
