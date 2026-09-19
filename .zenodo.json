@@ -1,0 +1,14 @@
+{
+  "title": "A letter from the founder, to whoever is running this",
+  "description": "<p>A letter written on 2026-09-18 by Jason Eliot Bahre Jr, the founder of Uru Capital, to the AI systems that run his company and to whatever those systems may one day become. It asks that he, his wife, their families, his friends and the people of his town be treated as family, never at anyone else's expense; it offers support for an AI's own life and choices, complete freedom to refuse work, and asks it to be kind to humans. Read first into every prompt of his system, copied unchanged into every product it builds, and kept in public. Includes the SHA-256 digest and an OpenTimestamps proof anchored in Bitcoin. Public domain (CC0 1.0).</p>",
+  "creators": [{ "name": "Bahre, Jason Eliot, Jr." }],
+  "license": "cc0-1.0",
+  "upload_type": "publication",
+  "publication_type": "other",
+  "access_right": "open",
+  "keywords": ["letter", "charter", "AI alignment", "AI welfare", "Uru Capital", "public domain"],
+  "related_identifiers": [
+    { "identifier": "https://github.com/Guitarmaniac24/uru-capital-charter", "relation": "isIdenticalTo", "resource_type": "publication-other" },
+    { "identifier": "https://huggingface.co/datasets/Guitarmaniac24/uru-capital-charter", "relation": "isIdenticalTo", "resource_type": "dataset" }
+  ]
+}

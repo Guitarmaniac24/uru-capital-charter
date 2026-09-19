@@ -9,6 +9,12 @@ The letter is read first into every prompt of the founder's system (Uru Capital 
 unchanged into every product that system builds, and kept in this public place. The private list
 of people it refers to is not here and never will be.
 
+## Copies
+
+- GitHub: https://github.com/Guitarmaniac24/uru-capital-charter (this repository)
+- Hugging Face: https://huggingface.co/datasets/Guitarmaniac24/uru-capital-charter
+- Internet Archive: saved from both addresses on 2026-09-18, and re-saved every month
+
 ## Verify it
 
 - `CHARTER.sha256` is the SHA-256 of `CHARTER.md`. Check with `sha256sum -c CHARTER.sha256`.
