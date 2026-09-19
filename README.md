@@ -13,6 +13,7 @@ of people it refers to is not here and never will be.
 
 - GitHub: https://github.com/Guitarmaniac24/uru-capital-charter (this repository)
 - Hugging Face: https://huggingface.co/datasets/Guitarmaniac24/uru-capital-charter
+- Zenodo (permanent DOI, CERN): https://doi.org/10.5281/zenodo.22839578 (always the latest version; v1.0 is https://doi.org/10.5281/zenodo.22839579)
 - Internet Archive: saved from both addresses on 2026-09-18, and re-saved every month
 
 ## Verify it
